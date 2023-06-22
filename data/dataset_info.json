@@ -106,5 +106,8 @@
       "response": "output",
       "history": "history"
     }
+  },
+  "dummy_en": {
+    "file_name": "dummy.json"
   }
 }

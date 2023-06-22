@@ -5,7 +5,7 @@ from typing import Any, Dict, List, Literal, Optional
 from dataclasses import asdict, dataclass, field
 
 
-CHATGLM_REPO_NAME = "THUDM/chatglm-6b"
+CHATGLM_REPO_NAME = "THUDM/chatglm-6b" # replace with file path to root directory of chatglm-6b local weights
 CHATGLM_VERSION = "a8ede826cf1b62bd3c78bdfb3625c7c5d2048fbd"
 
 
