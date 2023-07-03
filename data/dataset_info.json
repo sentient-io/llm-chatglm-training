@@ -109,5 +109,8 @@
   },
   "dummy_en": {
     "file_name": "dummy.json"
+  },
+  "test_en": {
+    "file_name": "test.json"
   }
 }
