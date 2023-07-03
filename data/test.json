@@ -1,0 +1,302 @@
+[
+  {
+    "instruction": "What is Nestle stepping up in Ivory Coast?",
+    "input": "Nestle is stepping up its project to combat deforestation in Ivory Coast caused by the growth of cocoa farming, bringing cocoa trading companies directly on board.",
+    "output": "Nestle is stepping up its project to combat deforestation in Ivory Coast caused by the growth of cocoa farming."
+  },
+  {
+    "instruction": "What is the current state of forest cover in Ivory Coast?",
+    "input": "Ivory Coast had 16 million hectares of forest in the 1960s, which is now down to less than 3 million hectares, mainly due to cocoa plantations.",
+    "output": "The forest cover in Ivory Coast has significantly decreased from 16 million hectares to less than 3 million hectares, primarily due to cocoa plantations."
+  },
+  {
+    "instruction": "When did Nestle launch its project in Ivory Coast?",
+    "input": "Nestle launched a project in 2020 aimed at restoring and protecting the Cavally Forest in southwest Ivory Coast.",
+    "output": "Nestle launched its project in Ivory Coast in 2020."
+  },
+  {
+    "instruction": "What is the Cavally Forest in Ivory Coast?",
+    "input": "Cavally Forest is one of the last remaining dense forests in Ivory Coast and is a biodiversity reserve covering more than 67,000 hectares.",
+    "output": "The Cavally Forest is a dense forest in Ivory Coast that covers more than 67,000 hectares and serves as a biodiversity reserve."
+  },
+  {
+    "instruction": "Who are the partners in Nestle's reforestation project?",
+    "input": "The Nestle project was a partnership with the Ivorian government and the Earthworm Foundation.",
+    "output": "The partners in Nestle's reforestation project are the Ivorian government and the Earthworm Foundation."
+  },
+  {
+    "instruction": "What progress has been made in the first phase of the Nestle project?",
+    "input": "The first phase of the Nestle project led to a significant reduction in deforestation, with the natural regeneration of 7,000 hectares and the reforestation of almost 1,500 hectares.",
+    "output": "In the first phase of the Nestle project, there was a significant reduction in deforestation, with the natural regeneration of 7,000 hectares and the reforestation of almost 1,500 hectares."
+  },
+  {
+    "instruction": "Which companies are involved in the second phase of the Nestle project?",
+    "input": "The Swiss trading company Cocoasource and the French firm Touton have been brought on board for the second phase of the Nestle project.",
+    "output": "The second phase of the Nestle project involves the Swiss trading company Cocoasource and the French firm Touton."
+  },
+  {
+    "instruction": "What is the budget allocated to the Nestle project?",
+    "input": "The Nestle project has a budget of 4 million Swiss francs.",
+    "output": "The budget allocated to the Nestle project is 4 million Swiss francs."
+  },
+  {
+    "instruction": "What are the objectives of the second phase of the Nestle project?",
+    "input": "The second phase of the Nestle project aims to strengthen the resilience of communities on the edge of the forest and improve the transparency and traceability of the cocoa and rubber supply chain.",
+    "output": "The objectives of the second phase of the Nestle project are to strengthen the resilience of communities and improve the transparency and traceability of the cocoa and rubber supply chain."
+  },
+  {
+    "instruction": "Why did Touton join the Nestle project?",
+    "input": "Touton joined the Nestle project because they saw the success of the first phase and believe that collective effort can protect the forest, which is essential for their business.",
+    "output": "Touton joined the Nestle project because they believe that collective effort can protect the forest, which is crucial for their business."
+  },
+  {
+    "instruction": "What does Julian Oram from the NGO Mighty Earth think of the Nestle initiative?",
+    "input": "Julian Oram thinks that the Nestle initiative is a valuable way of addressing deforestation but emphasizes that it should not be used as a way of avoiding changes to their core business practices, including cocoa purchasing practices.",
+    "output": "Julian Oram views the Nestle initiative as a valuable way of addressing deforestation, but he cautions against using it to avoid changes to core business practices, such as cocoa purchasing practices."
+  },
+  {
+    "instruction": "What does the WWF criticize regarding Swiss consumption of raw materials?",
+    "input": "The WWF criticizes what it calls 'imported deforestation' caused by Swiss consumption of eight major raw materials, including cocoa, coconuts, coffee, and palm oil.",
+    "output": "The WWF criticizes the 'imported deforestation' caused by Swiss consumption of raw materials, including cocoa, coconuts, coffee, and palm oil."
+  },
+  {
+    "instruction": "What percentage of Switzerland's cocoa imports come from countries with a high or very high risk of deforestation?",
+    "input": "According to the WWF, 54 percent of Switzerland's cocoa imports come from countries where the risk of deforestation is either high or very high.",
+    "output": "Approximately 54 percent of Switzerland's cocoa imports come from countries with a high or very high risk of deforestation."
+  },
+  {
+    "instruction": "What regulation did the European Parliament adopt to curb deforestation outside the EU?",
+    "input": "In mid-April, the European Parliament adopted a regulation to ban the import of products such as cocoa, coffee, palm oil, or rubber if they came from land deforested after December 2020.",
+    "output": "The European Parliament adopted a regulation to ban the import of products such as cocoa, coffee, palm oil, or rubber if they came from land deforested after December 2020."
+  },
+  {
+    "instruction": "What is the objective of the regulation adopted by the European Parliament?",
+    "input": "The objective of the regulation adopted by the European Parliament is to curb deforestation outside the European Union.",
+    "output": "The objective of the regulation adopted by the European Parliament is to curb deforestation outside the European Union."
+  },
+  {
+    "instruction": "According to the WWF, which country is the second-biggest destroyer of tropical forests after China?",
+    "input": "According to the WWF, the European Union (EU) is responsible for 16 percent of global deforestation, making it the second-biggest destroyer of tropical forests after China.",
+    "output": "According to the WWF, the European Union (EU) is the second-biggest destroyer of tropical forests after China, responsible for 16 percent of global deforestation."
+  },
+  {
+    "instruction": "Which ministry has joined the Cavally project?",
+    "input": "Besides commodity traders, the Swiss economy ministry has joined the Cavally project.",
+    "output": "The Swiss economy ministry has joined the Cavally project, along with commodity traders."
+  },
+  {
+    "instruction": "What is the role of the Swiss economy ministry in the Cavally project?",
+    "input": "The Swiss economy ministry joined the Cavally project to contribute to improving supply chains as Switzerland is an important country for trading and processing cocoa.",
+    "output": "The Swiss economy ministry joined the Cavally project to contribute to improving supply chains, given Switzerland's significance in trading and processing cocoa."
+  },
+  {
+    "instruction": "What does Romain Deveze from the Swiss WWF say about Swiss legislation?",
+    "input": "Romain Deveze, the raw materials expert for the Swiss WWF, expressed the desire for Switzerland to align itself with European regulations sooner rather than waiting for 10 years.",
+    "output": "Romain Deveze from the Swiss WWF believes that Switzerland should align itself with European regulations sooner rather than waiting for 10 years."
+  },
+  {
+    "instruction": "What did Nestle's project in Ivory Coast aim to restore and protect?",
+    "input": "Nestle's project in Ivory Coast aimed to restore and protect the Cavally Forest in southwest Ivory Coast.",
+    "output": "Nestle's project in Ivory Coast aimed to restore and protect the Cavally Forest in southwest Ivory Coast."
+  },
+  {
+    "instruction": "What is the major cause of deforestation in Ivory Coast?",
+    "input": "The major cause of deforestation in Ivory Coast is the growth of cocoa farming.",
+    "output": "The growth of cocoa farming is the major cause of deforestation in Ivory Coast."
+  },
+  {
+    "instruction": "How much forest cover did Ivory Coast have in the 1960s?",
+    "input": "In the 1960s, Ivory Coast had 16 million hectares of forest cover.",
+    "output": "In the 1960s, Ivory Coast had 16 million hectares of forest cover."
+  },
+  {
+    "instruction": "How many hectares of forest are left in Ivory Coast?",
+    "input": "Currently, Ivory Coast has less than 3 million hectares of forest remaining.",
+    "output": "Currently, Ivory Coast has less than 3 million hectares of forest remaining."
+  },
+  {
+    "instruction": "What is the size of the Cavally Forest in Ivory Coast?",
+    "input": "The Cavally Forest in Ivory Coast covers more than 67,000 hectares.",
+    "output": "The Cavally Forest in Ivory Coast covers more than 67,000 hectares."
+  },
+  {
+    "instruction": "What is the threat to the Cavally Forest in Ivory Coast?",
+    "input": "The Cavally Forest in Ivory Coast is threatened by deforestation linked to the cocoa industry and illegal gold panning.",
+    "output": "The Cavally Forest in Ivory Coast is threatened by deforestation linked to the cocoa industry and illegal gold panning."
+  },
+  {
+    "instruction": "Who is the partner of Nestle's reforestation project in Ivory Coast?",
+    "input": "The partner of Nestle's reforestation project in Ivory Coast is the Earthworm Foundation, an NGO that led the project's implementation.",
+    "output": "The partner of Nestle's reforestation project in Ivory Coast is the Earthworm Foundation."
+  },
+  {
+    "instruction": "What progress has been achieved in the first phase of Nestle's project?",
+    "input": "In the first phase of Nestle's project, 7,000 hectares of land underwent natural regeneration, and nearly 1,500 hectares were reforested.",
+    "output": "In the first phase of Nestle's project, there was 7,000 hectares of natural regeneration and nearly 1,500 hectares of reforestation."
+  },
+  {
+    "instruction": "Who are the new partners in the second phase of Nestle's project?",
+    "input": "The second phase of Nestle's project involves the Swiss trading company Cocoasource and the French firm Touton.",
+    "output": "The second phase of Nestle's project involves the Swiss trading company Cocoasource and the French firm Touton."
+  },
+  {
+    "instruction": "What is the budget allocated to Nestle's project in Ivory Coast?",
+    "input": "Nestle's project in Ivory Coast has a budget of 4 million Swiss francs.",
+    "output": "The budget allocated to Nestle's project in Ivory Coast is 4 million Swiss francs."
+  },
+  {
+    "instruction": "What are the objectives of the second phase of Nestle's project in Ivory Coast?",
+    "input": "The objectives of the second phase of Nestle's project in Ivory Coast are to strengthen the resilience of local communities and improve the transparency and traceability of the cocoa and rubber supply chain.",
+    "output": "The objectives of the second phase of Nestle's project in Ivory Coast are to strengthen the resilience of local communities and improve the transparency and traceability of the cocoa and rubber supply chain."
+  },
+  {
+    "instruction": "Why did Touton join Nestle's project in Ivory Coast?",
+    "input": "Touton joined Nestle's project in Ivory Coast because they believe that collective action is necessary to protect the forest, which is essential for their business.",
+    "output": "Touton joined Nestle's project in Ivory Coast because they believe that collective action is necessary to protect the forest, which is essential for their business."
+  },
+  {
+    "instruction": "What is Julian Oram's opinion on Nestle's initiative in Ivory Coast?",
+    "input": "Julian Oram thinks that Nestle's initiative in Ivory Coast is valuable in addressing deforestation but cautions against using it as a way to avoid core business practice changes, such as cocoa purchasing practices.",
+    "output": "Julian Oram thinks that Nestle's initiative in Ivory Coast is valuable in addressing deforestation, but he cautions against using it as a way to avoid core business practice changes, such as cocoa purchasing practices."
+  },
+  {
+    "instruction": "What does the WWF criticize regarding Swiss consumption of raw materials in Ivory Coast?",
+    "input": "The WWF criticizes what it calls 'imported deforestation' caused by Swiss consumption of major raw materials, including cocoa, coconuts, coffee, and palm oil.",
+    "output": "The WWF criticizes the 'imported deforestation' caused by Swiss consumption of major raw materials, including cocoa, coconuts, coffee, and palm oil."
+  },
+  {
+    "instruction": "What percentage of Switzerland's cocoa imports come from countries with a high or very high risk of deforestation in Ivory Coast?",
+    "input": "According to the WWF, 54 percent of Switzerland's cocoa imports come from countries with a high or very high risk of deforestation.",
+    "output": "According to the WWF, 54 percent of Switzerland's cocoa imports come from countries with a high or very high risk of deforestation."
+  },
+  {
+    "instruction": "What regulation did the European Parliament adopt to curb deforestation outside the EU in Ivory Coast?",
+    "input": "The European Parliament adopted a regulation to ban the import of products, such as cocoa, coffee, palm oil, or rubber, if they come from land deforested after December 2020.",
+    "output": "The European Parliament adopted a regulation to ban the import of products, such as cocoa, coffee, palm oil, or rubber, if they come from land deforested after December 2020."
+  },
+  {
+    "instruction": "What is the objective of the regulation adopted by the European Parliament in Ivory Coast?",
+    "input": "The objective of the regulation adopted by the European Parliament is to curb deforestation outside the European Union.",
+    "output": "The objective of the regulation adopted by the European Parliament is to curb deforestation outside the European Union."
+  },
+  {
+    "instruction": "According to the WWF, which entity is the second-biggest destroyer of tropical forests after China in Ivory Coast?",
+    "input": "According to the WWF, the European Union (EU) is responsible for 16 percent of global deforestation, making it the second-biggest destroyer of tropical forests after China.",
+    "output": "According to the WWF, the European Union (EU) is the second-biggest destroyer of tropical forests after China, responsible for 16 percent of global deforestation."
+  },
+  {
+    "instruction": "Which ministry has joined the Cavally project in Ivory Coast?",
+    "input": "Besides commodity traders, the Swiss economy ministry has joined the Cavally project.",
+    "output": "Besides commodity traders, the Swiss economy ministry has joined the Cavally project."
+  },
+  {
+    "instruction": "What is the role of the Swiss economy ministry in the Cavally project in Ivory Coast?",
+    "input": "The Swiss economy ministry joined the Cavally project to contribute to improving supply chains as Switzerland is an important country for trading and processing cocoa.",
+    "output": "The Swiss economy ministry joined the Cavally project to contribute to improving supply chains, given Switzerland's significance in trading and processing cocoa."
+  },
+  {
+    "instruction": "What was Nestle's turnover in confectionery alone in 2022 in Ivory Coast?",
+    "input": "Nestle achieved a turnover of 8.1 billion Swiss francs in confectionery alone in 2022.",
+    "output": "Nestle achieved a turnover of 8.1 billion Swiss francs in confectionery alone in 2022."
+  },
+  {
+    "instruction": "What does Romain Deveze from the Swiss WWF say about Swiss legislation in Ivory Coast?",
+    "input": "Romain Deveze, the raw materials expert for the Swiss WWF, expressed the desire for Switzerland to align itself with European regulations sooner rather than waiting for 10 years.",
+    "output": "Romain Deveze, the raw materials expert for the Swiss WWF, expressed the desire for Switzerland to align itself with European regulations sooner rather than waiting for 10 years."
+  },
+  {
+    "instruction": "What are the major environmental challenges in Ivory Coast?",
+    "input": "The major environmental challenges in Ivory Coast include deforestation, illegal gold mining, and pollution of water bodies.",
+    "output": "The major environmental challenges in Ivory Coast are deforestation, illegal gold mining, and pollution of water bodies."
+  },
+  {
+    "instruction": "What initiatives are being taken to address environmental challenges in Ivory Coast?",
+    "input": "Initiatives to address environmental challenges in Ivory Coast include reforestation projects, stricter regulations, and sustainable farming practices.",
+    "output": "Initiatives to address environmental challenges in Ivory Coast include reforestation projects, stricter regulations, and sustainable farming practices."
+  },
+  {
+    "instruction": "Provide an overview of Nestle's reforestation project in Ivory Coast.",
+    "input": "Nestle is stepping up its project to combat deforestation in Ivory Coast caused by the growth of cocoa farming, bringing cocoa trading companies directly on board.",
+    "output": "Nestle is launching a project to combat deforestation in Ivory Coast, primarily caused by cocoa farming. They are involving cocoa trading companies in their efforts."
+  },
+  {
+    "instruction": "What is the main objective of Nestle's project in Ivory Coast?",
+    "input": "Nestle is launching a project to combat deforestation in Ivory Coast, primarily caused by cocoa farming. They are involving cocoa trading companies in their efforts.",
+    "output": "The main objective of Nestle's project in Ivory Coast is to combat deforestation caused by cocoa farming."
+  },
+  {
+    "instruction": "Who are the partners in implementing Nestle's reforestation project?",
+    "input": "Nestle is launching a project to combat deforestation in Ivory Coast, primarily caused by cocoa farming. They are involving cocoa trading companies in their efforts.",
+    "output": "The partners in implementing Nestle's reforestation project are the Ivorian government and the Earthworm Foundation."
+  },
+  {
+    "instruction": "What is the significance of the Cavally Forest in Ivory Coast?",
+    "input": "The Nestle project aims to restore and protect the Cavally Forest in southwest Ivory Coast.",
+    "output": "The Cavally Forest is one of the last remaining dense forests in Ivory Coast and is a biodiversity reserve covering more than 67,000 hectares."
+  },
+  {
+    "instruction": "What are the companies involved in the second phase of the Nestle project?",
+    "input": "For its second three-year phase, the Swiss trading company Cocoasource and the French firm Touton have been brought on board.",
+    "output": "The companies involved in the second phase of the Nestle project are Cocoasource and Touton."
+  },
+  {
+    "instruction": "What is the budget allocated to the Nestle project?",
+    "input": "The project has a budget of 4 million Swiss francs.",
+    "output": "The budget allocated to the Nestle project is 4 million Swiss francs."
+  },
+  {
+    "instruction": "What is the objective of the second phase of the Nestle project?",
+    "input": "For its second three-year phase, the Swiss trading company Cocoasource and the French firm Touton have been brought on board.",
+    "output": "The objective of the second phase of the Nestle project is to strengthen the resilience of the communities on the edge of the forest and improve the transparency and traceability of the cocoa and rubber supply chain."
+  },
+  {
+    "instruction": "Why did Touton join the Nestle project?",
+    "input": "Touton wanted to join the project because the first phase worked.",
+    "output": "Touton joined the Nestle project because they saw the success of the first phase."
+  },
+  {
+    "instruction": "What is the role of Earthworm Foundation in the Nestle project?",
+    "input": "The Nestle project was a partnership with the Ivorian government and the Earthworm Foundation, an NGO that led the project's implementation.",
+    "output": "The Earthworm Foundation played a role in implementing the Nestle project as an NGO partner."
+  },
+  {
+    "instruction": "What is the concern raised by Julian Oram regarding Nestle's practices?",
+    "input": "Julian Oram, the senior director for Africa at the NGO Mighty Earth, raised a concern about Nestle's practices.",
+    "output": "Julian Oram's concern is that Nestle might use agroforestry as a way to avoid making changes to their core business practices, including the prices they offer for cocoa."
+  },
+  {
+    "instruction": "What is the term used by the WWF to describe the deforestation caused by Swiss consumption of raw materials?",
+    "input": "The global conservationist group WWF criticizes what it calls 'imported deforestation' caused by Swiss consumption of certain raw materials.",
+    "output": "The WWF describes the deforestation caused by Swiss consumption of raw materials as 'imported deforestation.'"
+  },
+  {
+    "instruction": "What percentage of Switzerland's cocoa imports come from countries with a high risk of deforestation?",
+    "input": "The WWF says that 54 percent of Switzerland's cocoa imports come from countries with a high or very high risk of deforestation.",
+    "output": "Approximately 54 percent of Switzerland's cocoa imports come from countries with a high or very high risk of deforestation."
+  },
+  {
+    "instruction": "What regulation did the European Parliament adopt to curb deforestation outside the EU?",
+    "input": "In mid-April, the European Parliament adopted a regulation to ban the import of certain products if they came from land deforested after December 2020.",
+    "output": "The European Parliament adopted a regulation to ban the import of certain products, including cocoa, coffee, palm oil, or rubber, if they came from land deforested after December 2020."
+  },
+  {
+    "instruction": "According to the WWF, which country is the second-biggest destroyer of tropical forests after China?",
+    "input": "According to the WWF, the EU is responsible for 16 percent of global deforestation.",
+    "output": "According to the WWF, the European Union (EU) is the second-biggest destroyer of tropical forests after China, responsible for 16 percent of global deforestation."
+  },
+  {
+    "instruction": "Which ministry has joined the Cavally project?",
+    "input": "Besides commodity traders, the Swiss economy ministry has joined the Cavally project.",
+    "output": "The Swiss economy ministry has joined the Cavally project."
+  },
+  {
+    "instruction": "What is the role of the Swiss economy ministry in the Cavally project?",
+    "input": "Monica Rubiolo, head of trade promotion at the Swiss economy ministry, explained their role in the Cavally project.",
+    "output": "The role of the Swiss economy ministry in the Cavally project is to contribute to improving supply chains, as Switzerland is an important country for trading and processing cocoa."
+  },
+  {
+    "instruction": "What is the concern raised by Romain Deveze regarding Switzerland's legislation?",
+    "input": "Romain Deveze, raw materials expert for the Swiss WWF, commented on Switzerland's legislation.",
+    "output": "Romain Deveze's concern is that Switzerland should align itself with European regulations sooner, instead of waiting for 10 years."
+  }
+]
