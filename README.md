@@ -14,7 +14,7 @@ And **powerful GPUs**!
 1. Git clone https://github.com/sentient-io/llm-chatglm-training.git
 2. Run `pip install -r requirements.txt`
 3. Update model path (CHATGLM_REPO_NAME) at `config.py`
-4. [Prepare dataset](https://github.com/sentient-io/llm-chatglm-training)
+4. Prepare dataset (use [self instruct]([url](https://arxiv.org/abs/2212.10560)) method like [Alpaca]([url](https://github.com/tatsu-lab/stanford_alpaca)))
 5. Fine tuning with single GPU
 
 ```bash
