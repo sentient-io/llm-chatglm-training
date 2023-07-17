@@ -2,11 +2,12 @@
 
 ## Requirement
 
-- Python 3.8+ and PyTorch 1.13.1
+- Python 3.8+ and PyTorch 1.13.1+
 - 🤗Transformers, Datasets, Accelerate, PEFT and TRL
-- protobuf, cpm_kernels and sentencepiece
-- jieba, rouge_chinese and nltk (used at evaluation)
-- gradio and mdtex2html (used in web_demo.py)
+- fire, protobuf, cpm-kernels and sentencepiece
+- jieba, rouge-chinese and nltk (used at evaluation)
+- gradio and matplotlib (used in train_web.py)
+- uvicorn, fastapi and sse-starlette (used in api_demo.py)
 
 And **powerful GPUs**!
 ## Getting Started
@@ -43,6 +44,7 @@ CUDA_VISIBLE_DEVICES=0 python3 src/train_sft.py \
 
 ```bash
 python src/export_model.py \
+    --model_name_or_path path_to_your_chatglm_model \
     --checkpoint_dir path_to_checkpoint \
     --output_dir path_to_export
 ```
