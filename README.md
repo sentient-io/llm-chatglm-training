@@ -19,20 +19,47 @@ And **powerful GPUs**!
 5. Fine tuning with single GPU
 
 ```bash
-CUDA_VISIBLE_DEVICES=0 python3 src/train_sft.py \
+CUDA_VISIBLE_DEVICES=0 python3 src/train_bash.py \
+    --stage sft \
+    --model_name_or_path <path_to_model> \
     --do_train \
-    --dataset <match with key value pair at data/dataset_info.json>  \ 
-    --finetuning_type lora \ 
-    --output_dir /root/glm/trained_dummy_checkpoints \
+    --dataset  <path_to_key_of_dataset_info.json> \
+    --finetuning_type lora \
+    --output_dir  <path_to_output_checkpoints> \
     --per_device_train_batch_size 2 \
     --gradient_accumulation_steps 4 \
     --lr_scheduler_type cosine \
-    --logging_steps 10 \
-    --save_steps 1000 \
+    --logging_steps 2 \
+    --save_steps 2 \
     --learning_rate 5e-5 \
     --num_train_epochs 3.0 \
-    --fp16 
+    --fp16
 ```
+
+Example
+```bash
+CUDA_VISIBLE_DEVICES=0 python3 src/train_bash.py \
+    --stage sft \
+    --model_name_or_path /root/glm/chatglm2-6b \
+    --do_train \
+    --dataset wine_en \
+    --finetuning_type lora \
+    --output_dir /root/glm/_wine_checkpoints \
+    --per_device_train_batch_size 2 \
+    --gradient_accumulation_steps 4 \
+    --lr_scheduler_type cosine \
+    --logging_steps 2 \
+    --save_steps 2 \
+    --learning_rate 5e-5 \
+    --num_train_epochs 12.0 \
+    --fp16
+```
+
+Potential Bugs
+- issubclass() arg 1 must be a class
+  - pip3 install --force-reinstall typing-extensions==4.5.0 https://stackoverflow.com/questions/2464568/can-someone-explain-what-exactly-this-error-means-typeerror-issubclass-arg-1
+- cannot import name 'soft_unicode' from 'markupsafe' 
+  - pip3 install markupsafe==2.0.1 https://stackoverflow.com/questions/72191560/importerror-cannot-import-name-soft-unicode-from-markupsafe
 
 *If CUDA out of memory, try adjusting 1) Reducing batch size 2) Tweak quantization_bit to 8bit or 4bit* 
 
@@ -40,7 +67,7 @@ CUDA_VISIBLE_DEVICES=0 python3 src/train_sft.py \
 
 *Checkpoint saved at `output_dir`, to export the fine-tuned ChatGLM-6B model and get the weights, look at step 6)* 
 
-6. Export model
+1. Export model
 
 ```bash
 python src/export_model.py \
@@ -54,4 +81,6 @@ python src/export_model.py \
 - modeling_chatglm.py
 - configuration_chatglm.py
 - quantization.py
+
+*You may need to also update tokenizer_config.json to the same one on huggingface https://huggingface.co/THUDM/chatglm2-6b/blob/main/tokenizer_config.json*
 
