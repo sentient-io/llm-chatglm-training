@@ -76,11 +76,11 @@ python src/export_model.py \
     --output_dir path_to_export
 ```
 
-*Remember to add the following files from  https://huggingface.co/THUDM/chatglm-6b to the `output_dir`*  
+*You may need to add the following files from  https://huggingface.co/THUDM/chatglm-6b OR https://huggingface.co/THUDM/chatglm2-6b to the `output_dir`*  
 - tokenization_chatglm.py
 - modeling_chatglm.py
 - configuration_chatglm.py
 - quantization.py
 
-*You may need to also update tokenizer_config.json to the same one on huggingface https://huggingface.co/THUDM/chatglm2-6b/blob/main/tokenizer_config.json*
+*You may need to also update tokenizer_config.json to remove "clean_up_tokenization_spaces": false"*
 
