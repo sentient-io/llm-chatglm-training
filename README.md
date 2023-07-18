@@ -67,7 +67,7 @@ Potential Bugs
 
 *Checkpoint saved at `output_dir`, to export the fine-tuned ChatGLM-6B model and get the weights, look at step 6)* 
 
-1. Export model
+6. Export model
 
 ```bash
 python src/export_model.py \
